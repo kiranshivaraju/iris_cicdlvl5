@@ -1,0 +1,6 @@
+Flask
+numpy
+pandas
+Pillow==9.2.0
+scikit_learn
+streamlit==1.11.0
